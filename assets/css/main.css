@@ -1225,9 +1225,9 @@
 			}
 
 		#header .logo {
-			width: 6.5rem;
-			height: 6.5rem;
-			line-height: 6.5rem;
+			width: 6rem;
+			height: 6rem;
+			line-height: 6rem;
 			border: solid 1px #ffffff;
 			background-color: #1b1f22;
 			border-radius: 100%;
@@ -1238,7 +1238,8 @@
 			}
 				#header .logo img{
 					position: relative;
-					top: +10px;
+					top: +13px;
+					width: 4.5rem;
 
 				}
 
